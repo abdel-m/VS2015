@@ -12,7 +12,7 @@ namespace ConsoleApplicationLabo2
         public Person(String name, String lastName)
         {
             Name = name;
-            Lastname = lastName;
+            Lastname = lastName
         }
         public string Lastname
         {
