@@ -11,7 +11,7 @@ namespace ConsoleApplicationLabo2
            
         static void Main(string[] args)
         {
-            String test = "bonjour"; 
+            String test = "bonjour à tous"; 
         }
     }
 }
